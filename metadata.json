@@ -1,0 +1,6 @@
+{
+  "name": "AI Web Analytics & Sequence Mining Workbench",
+  "description": "M.E. Computer Science & Engineering Phase 1 Thesis Workbench: Behavioural Discovery & Graph-Enhanced Sequence Mining for Hidden User Patterns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
